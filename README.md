@@ -9,7 +9,9 @@ Capturing a live selfie via webcam
 Detecting and comparing faces between Aadhar and selfie images using FaceNet (facenet-pytorch)
 Providing real-time feedback on image clarity and lighting
 Checking if the user is 18 years or older
+
 ✅ Features
+
 📷 Webcam Selfie Capture
 🧠 Face Detection + Matching (via PyTorch MTCNN + FaceNet)
 🔍 DOB Extraction using Tesseract OCR
